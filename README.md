@@ -7,7 +7,7 @@
 ### Hii Saya @Arrafish <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
 
 - 🔭 Saya menempuh pendidikan di Universitas Gadjah Mada
-- 🌱 Saya mendalami bidang ilmu Geofisika
+- 🌱 Saya seorang Geofisikawan 
 
 ## Dapat menghubungi saya melalui <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
