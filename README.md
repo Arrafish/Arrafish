@@ -13,4 +13,4 @@
 <div align = center> 
 
 [![<Gmail>](https://img.shields.io/badge/Gmail-4db8ff?style=for-the-badge&logo=Gmail&logoColor=white)](naufalrayyanarrafish@mail.ugm.ac.id)
-<a href="https://instagram.com/dimasdhanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimasdhanur" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/nash_ryy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimasdhanur" height="30" width="40" /></a>
