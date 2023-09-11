@@ -1,5 +1,5 @@
+![image](https://github.com/Arrafish/Arrafish/assets/113290652/40047db5-debf-4854-9974-2e4c8ffdfe2e)
 ### Hi i'm @Arrafish 👋
-![image](https://github.com/Arrafish/Arrafish/assets/113290652/56cf6da0-4257-4398-8c0e-456335e4c092)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
