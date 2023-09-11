@@ -1,4 +1,3 @@
-![image](https://github.com/Arrafish/Arrafish/assets/113290652/40047db5-debf-4854-9974-2e4c8ffdfe2e)
 ![image](https://github.com/Arrafish/Arrafish/assets/113290652/43914883-1b9a-4c8e-ae73-975b58571e82)
 
 ### Hi i'm @Arrafish 👋
