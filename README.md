@@ -9,6 +9,6 @@
 - 🔭 Saya menempuh pendidikan di Universitas Gadjah Mada
 - 🌱 Saya mendalami bidang ilmu Geofisika
 
-### Dapat menghubungi saya melalui 
+## Dapat menghubungi saya melalui 
 
 [![<Gmail>](https://img.shields.io/badge/Gmail-4db8ff?style=for-the-badge&logo=Gmail&logoColor=white)](naufalrayyanarrafish@mail.ugm.ac.id)
